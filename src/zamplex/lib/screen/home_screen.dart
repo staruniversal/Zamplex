@@ -1,4 +1,4 @@
-import 'package: flutter/material.dart';
+import 'package:flutter/material.dart';
 
 class Homescreen extends StatefulWidget {
   _HomeScreenState createState() => _HomeScreenState();
@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Container(
       child: Center(
         child: Text('real home'),
-     ), // Center
-     ); // Container
+     ), 
+     );
   }
 }
